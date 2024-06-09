@@ -1,4 +1,4 @@
-# Hashag - Terminal Emulator
+# Hashag - тнє αℓℓ ιη σηє тєямιηαℓ
 
 This project is inspired from warp.dev but will have more features and is built in community.
 
